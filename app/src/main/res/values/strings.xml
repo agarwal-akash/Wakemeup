@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wake me up</string>
+    <string-array name="sound_string">
+        <item>Choose a ringtone</item>
+        <item>wake_up_lol</item>
+        <item>lg_good_morning</item>
+        <item>simple_office_tone</item>
+        <item>vampire_call</item>
+        <item>alarm</item>
+    </string-array>
+
+</resources>
